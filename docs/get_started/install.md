@@ -952,7 +952,7 @@ Install these dependencies using the following commands in any directory:
 
 ```bash
     sudo apt-get update
-    sudo apt-get -y install git cmake build-essential g++-4.8 c++-4.8 liblapack* libblas* libopencv*
+    sudo apt-get -y install git cmake build-essential g++-4.8 c++-4.8 libblas* libopencv*
 ```
 
 Clone the MXNet source code repository using the following ```git``` command in your home directory:
